@@ -2,7 +2,7 @@
         
    
 
-### Hello folks, I'm Nishant! 👋
+## Hello folks, I'm Nishant! 👋
 <p align="center">
    <img src="https://github-readme-quotes.herokuapp.com/quote?theme=merko"/>
 </p>  
@@ -25,15 +25,15 @@ My name is Nishant Venugopal.I am a software developer who is always ready to le
 </p>
 
 
-#### Tech Stacks
+### Tech Stacks
 ![java](https://img.shields.io/badge/Java-blue?logo=java&style=flat-square)  ![SpringBoot](https://img.shields.io/badge/SpringBoot-black?style=flat-square&logo=spring) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript) ![NodeJS](https://img.shields.io/badge/NodeJS-green?style=flat-square&logo=node.js&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-red?style=flat-square&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-yellow?style=flat-square&logo=css3&logoColor=white)  ![MySql](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=black)
 
-#### OS Projects
+### OS Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nishantpersonal&repo=github-readme-quotes&theme=merko)](https://github.com/shravan20/github-readme-quotes)
 
 
-#### Profile Stats
+### Profile Stats
  ![github stats](https://github-readme-stats.vercel.app/api?username=nishantpersonal&theme=merko)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantpersonal&theme=merko&layout=compact&count_private=true)
 
 
