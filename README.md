@@ -2,7 +2,7 @@
         
    
 
-### Hello folks,I'm Nishant! 👋
+### Hello folks, I'm Nishant! 👋
 <p align="center">
    <img src="https://github-readme-quotes.herokuapp.com/quote?theme=merko"/>
 </p>  
