@@ -4,7 +4,7 @@
 
 ## Hello folks, I'm Nishant! 👋
 <p align="center">
-   <img src="https://github-readme-quotes.herokuapp.com/quote?theme=vision-friendly-dark"/>
+   <img src="https://github-readme-quotes.herokuapp.com/quote?layout=zues"/>
 </p>  
 
 My name is Nishant Venugopal.I am a software developer who is always ready to learn and explore newer tech stacks.
