@@ -10,8 +10,8 @@
 My name is Nishant Venugopal.I am a software developer who is always ready to learn and explore newer tech stacks.
 
 
-- 🔭 I’m currently working on [Github Readme Quotes](https://github.com/shravan20/github-readme-quotes)
-- 🌱 I’m currently learning Node JS
+- 🔭 I’m currently contributing on [Github Readme Quotes](https://github.com/shravan20/github-readme-quotes)
+- 🌱 I’m currently learning Elasticsearch and React JS.
 - 📫 Have anything to ask?[Ask Here](https://github.com/nishantpersonal/nishantpersonal/issues)
 
 <p align="center">
