@@ -26,7 +26,7 @@ My name is Nishant Venugopal.I am a software developer who is always ready to le
 
 
 ### Tech Stacks
-![java](https://img.shields.io/badge/Java-blue?logo=java&style=flat-square)  ![SpringBoot](https://img.shields.io/badge/SpringBoot-black?style=flat-square&logo=spring) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)![Elasticsearch](https://img.shields.io/badge/Elasticsearch-red) ![NodeJS](https://img.shields.io/badge/NodeJS-green?style=flat-square&logo=node.js&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-red?style=flat-square&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-yellow?style=flat-square&logo=css3&logoColor=white)  ![MySql](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=black)
+![java](https://img.shields.io/badge/Java-blue?logo=java&style=flat-square)  ![SpringBoot](https://img.shields.io/badge/SpringBoot-black?style=flat-square&logo=spring) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-orange?style=flat-square&logo=elasticsearch) ![NodeJS](https://img.shields.io/badge/NodeJS-green?style=flat-square&logo=node.js&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-red?style=flat-square&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-yellow?style=flat-square&logo=css3&logoColor=white)  ![MySql](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=black)
 
 ### OS Projects
 
